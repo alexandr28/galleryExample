@@ -1,0 +1,22 @@
+.animated-scroll_content{
+  width: 80%;
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+.animated-scroll_menu{
+  display: flex;
+  list-style: none;
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  li{
+    margin: 1em;
+  }
+}
+.animated-scroll_content{
+  padding: 4em;
+  line-height: 1.8;
+}
